@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="en">
+<link rel="stylesheet" href="site.css"
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Home</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+    <script src="https://kit.fontawesome.com/59feaf50a6.js" crossorigin="anonymous"></script>
+   
+</head>
+
+<body>
+    <div class="header">
+        <div class="container">
+            <div class="navbar">
+                <div class="logo">
+                    <a href="index.html">
+                        <img src="DDDDD" alt="" width="125px">
+                    </a>
+                </div>
+                <nav>
+                    <ul id="MenuItems">
+                        <li><a href="C:\Users\hp\Desktop\site complet\site.html"><i class="fas fa-home"></i><span style="color:rgb(10, 8, 8)">Home</span></a></li>
+                        <li><a href="C:\Users\hp\Desktop\site complet\about.html"><i class="fas fa-address-card"></i><span style="color:rgb(12, 10, 10)">About</span></a></li>
+                        <li><a href="C:\Users\hp\Desktop\site complet\signIn.html"><i class="fas fa-user-alt"></i><span style="color:rgb(12, 9, 9)">Account</span></a></li>
+                        <li><a href="C:\Users\hp\Desktop\site complet\produits.html"><i class="fas fa-shopping-basket"></i><span style="color:rgb(8, 7, 7)">Products</span></a></li>
+                        
+                    </ul>
+                </nav>
+                
+            </div>
+            <div class="row">
+                <div class="col-2">
+                    <h1>Change your furniture, <br />Change your Home.</h1>
+                    <p>
+                        "Donnez vie à vos espaces avec des touches élégantes et des accents personnalisés pour une maison qui vous ressemble.<br>"Transformez votre maison en un sanctuaire de style avec nos dernières collections de décoration intérieure."<br>
+                    </p>
+                    <a href="C:\Users\hp\Desktop\site complet\produits.html" class="btn">Explore Now &#8594;</a>
+                </div>
+                <div class="col-22">
+                    <img src="LOGO3.avif" alt="" />
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="categories">
+        <div class="small-container">
+            <div class="row">
+                <div class="col-3">
+                    <img src="PRODUCT10.jpg" alt="" />
+                </div>
+                <div class="col-3">
+                    <img src="PRODUCT11.jpg" alt="" />
+                </div>
+                <div class="col-3">
+                    <img src="PRODUCT12.jpg" alt="" />
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="small-container">
+        <h2 class="title">Featured Products</h2>
+        <div class="row">
+            <div class="col-4">
+                <a href="#products">
+
+                    <img src="PRODUCT9.jpg" alt="" />
+                </a>
+                <a href="#products">
+
+                    <h4>Casual chair</h4>
+                </a>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+                <p>1000.dhs</p>
+            </div>
+            <div class="col-4">
+                <img src="PRODUCT8.jpg" alt="" />
+                <h4>cerculair lamp</h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-half-o"></i>
+                </div>
+                <p>499.dhs</p>
+            </div>
+            <div class="col-4">
+                <img src="PRODUCT7.jpg" alt="" />
+                <h4>batterfly lamp</h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+                <p>2500.dhs</p>
+            </div>
+            <div class="col-4">
+                <img src="PRODUCT6.jpg" alt="" />
+                <h4>copper vase</h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-half-o"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+                <p>678.dhs</p>
+            </div>
+        </div>
+
+        <h2 class="title">Latest Products</h2>
+        <div class="row">
+            <div class="col-4">
+                <img src="PRODUCT5.jpg" alt="" />
+                <h4>small tree</h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+                <p>3456.dhs</p>
+            </div>
+            <div class="col-4">
+                <img src="PRODUCT14.jpg" alt="" />
+                <h4>floating blue watch</h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-half-o"></i>
+                </div>
+                <p>11499.dhs</p>
+            </div>
+            <div class="col-4">
+                <img src="product4.jpg" alt="" />
+                <h4>separate shelf</h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+                <p>988.dhs</p>
+            </div>
+            <div class="col-4">
+                <img src="product3.jpg" alt="" />
+                <h4> watch on wall</h4>
+                <div class="rating">*
+                    
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-half-o"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+                <p>3039.dhs</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-4">
+                <img src="product2.jpg" alt="" />
+                <h4>small cerculair vase</h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+                <p>1245.dhs</p>
+            </div>
+            <div class="col-4">
+                <img src="product1.jpg" alt="" />
+                <h4>vase of a face</h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-half-o"></i>
+                </div>
+                <p>5600.dhs</p>
+            </div>
+            <div class="col-4">
+                <img src="PRODUCT13.jpg" alt="" />
+                <h4>romanian watch</h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+                <p>9500.dhs</p>
+            </div>
+            <div class="col-4">
+                <img src="PRODUCT15.jpg" alt="" />
+                <h4>traditional basket</h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-half-o"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+                <p>4296.dhs</p>
+            </div>
+        </div>
+    </div>
+    <div class="offer">
+        <div class="small-container">
+            <div class="row">
+                <div class="col-2">
+                    <img src="offre special.jpg" alt="" class="offer-img" />
+                </div>
+                <div class="col-2">
+                    <p>Exclusively Available </p>
+                    <h1>Offre Speciale</h1>
+                    <small>
+                        "Ne manquez pas notre offre spéciale sur nos produits  ! Obtenez-le dès maintenant à un prix exceptionnel et ajoutez une touche d'élégance à votre intérieur."
+                    </small>
+                    <a href="C:\Users\hp\Desktop\site complet\produits.html" class="btn">Buy Now &#8594;</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="testimonial">
+        <div class="small-container">
+            <div class="row">
+                <div class="col-3">
+                    
+                    <i class="fa fa-quote-left"></i>
+                    <p>
+                        "Suivez-nous sur Instagram pour un aperçu en temps réel de nos projets en cours, nos collaborations excitantes et nos moments les plus mémorables. Rejoignez-nous dès maintenant !"
+                    </p>
+                    <div class="rating">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star-half-o"></i>
+                    </div>
+                    <img src="insta.jpg" alt="">
+                    <h3>Instagram</h3>
+                </div>
+                <div class="col-3">
+                    <i class="fa fa-quote-left"></i>
+                    <p>
+                        "Êtes-vous prêt à découvrir des moments inoubliables et des designs exceptionnels ? Suivez-nous sur Facebook et laissez-vous inspirer par notre univers."
+                    </p>
+                    <div class="rating">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star-half-o"></i>
+                    </div>
+                    <img src="facebook.jpg" alt="">
+                    <h3>Facebook</h3>
+                </div>
+                <div class="col-3">
+                    <i class="fa fa-quote-left"></i>
+                    <p>
+                        Ne manquez pas nos coulisses exclusives, nos nouveautés et nos offres spéciales ! Rejoignez-nous sur Snapchat pour être toujours au cœur de l'action."
+                    </p>
+                    <div class="rating">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star-half-o"></i>
+                    </div>
+                    <img src="snap.jpg" alt="">
+                    <h3>Snapchat</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="brands">
+        <div class="small-container">
+            <div class="row">
+                <div class="col-5">
+                    <img src="table7.jpg" alt="">
+                </div>
+                <div class="col-5">
+                    <img src="CHAIR3.jpg" alt="">
+                </div>
+                <div class="col-5">
+                    <img src="vase4.jpg" alt="">
+                </div>
+                <div class="col-5">
+                    <img src="table3.jpg" alt="">
+                </div>
+                <div class="col-5">
+                    <img src="chair1.jpg" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="footer-col-1">
+                    <h3>Download our App</h3>
+                    <p>Download App for Andriod and ios mobile phone.</p>
+                    <div class="app-logo">
+                        <img src="play store.jpg" alt="">
+                        <img src="apple.jpg" alt="">
+                    </div>
+                </div>
+                <div class="footer-col-2">
+                    <img src="LOGO3.avif" alt="">
+                    <p>Our purpose is to give the best quality product to the customer and bring them back and make them
+                        happy.</p>
+                </div>
+                <div class="footer-col-3">
+                    <h3>Informations</h3>
+                    <ul>
+                        <li>phone: 0698874267</li>
+                        <li>Adresse: boulevard hassan 2 , gueliz , MARRAKECH</li>
+                        <li>Email : HomeDeco@gmail.com</li>
+                        
+                    </ul>
+                </div>
+                <div class="footer-col-4">
+                    <h3>Follow Us</h3>
+                    <ul>
+                        <li>Facebook</li>
+                        <li>Twitter</li>
+                        <li>Instagram</li>
+                        <li>Youtube</li>
+                    </ul>
+                </div>
+            </div>
+            <hr>
+            <p class="copyright">Copyright &copy; 2024 </p>
+        </div>
+    </div>
+
+
+    <script>
+        var MenuItems = document.getElementById("MenuItems");
+
+        MenuItems.style.maxHeight = "0px";
+
+        function menutoggle() {
+            if (MenuItems.style.maxHeight == "0px") {
+                MenuItems.style.maxHeight = "200px";
+            }
+            else {
+                MenuItems.style.maxHeight = "0px";
+            }
+        }
+    </script>
+
+
+
+</body>
+
+</html>
